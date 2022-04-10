@@ -2,8 +2,11 @@
 #### Team Project- ZooTycoon        
 ------------------------------         
 #### Zoo manage/simulation game
-#### used tkinter
+#### Tkinter
 ------------------------------
-### pip install openpyxl
-### pip install pandas
-### pip install pillow
+### To run:
+#### pip install openpyxl
+#### pip install pandas
+#### pip install pillow
+#### run main.py
+
